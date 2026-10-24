@@ -76,7 +76,7 @@ I believe in learning by building, practicing consistently, and improving one pr
 ## 📫 Connect With Me
 
 * GitHub: [Komal467-ai](https://github.com/Komal467-ai)
-* LinkedIn: linkedin.com/in/komal-shakya-186742357
+* LinkedIn: https://www.linkedin.com/in/komal-shakya-186742357
 
 ---
 
